@@ -1,4 +1,5 @@
 USE codeup_test_db;
+USE employees;
 
 SELECT name from albums where artist = 'Pink Floyd';
 
